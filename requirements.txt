@@ -1,0 +1,6 @@
+python-dotenv>=1.0
+pytest>=8.3
+litellm>=1.44
+prometheus-client>=0.21
+fastapi>=0.115
+uvicorn>=0.30
